@@ -132,12 +132,10 @@ synthetic-data-generator/
 
 ## ⚙️ Installation
 
-### 1. Clone Repository
+### 1. Download Repo
 
 ```bash
-git clone https://github.com/your-username/synthetic-data-generator.git
-
-cd synthetic-data-generator
+Download repo files
 ```
 
 ### 2. Create Virtual Environment
@@ -286,10 +284,12 @@ This project helps users learn:
 Add screenshots here:
 
 ```text
-screenshots/
-├── home.png
-├── dataset_preview.png
-├── solution_generation.png
+<img width="1907" height="974" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/c4049043-7a1d-47f2-be08-63f6a45c09b2" />
+
+<img width="1920" height="974" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/245eb651-d45f-4822-9edb-edc869a6417b" />
+
+<img width="1912" height="974" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/4125f352-0312-486a-8c71-bb6c981bcce3" />
+
 ```
 
 ---
